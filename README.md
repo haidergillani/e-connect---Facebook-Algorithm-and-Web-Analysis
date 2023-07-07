@@ -6,7 +6,7 @@ Team Members: [Haider](https://www.linkedin.com/in/haider-gillani-b87b90210/),  
 Supervisor:  [Mike Cho](https://www.linkedin.com/in/hyunik-cho/) - Senior Associate at Kakao Ventures
 
 Role: **Algorithm Analyst**  
-Company: **[Kakao Ventures]**(https://www.kakao.vc/), the most active seed stage VC in South Korea, with over 190 portfolios, managing 3500+ assets, and AUM of $300M (330B KRW) \
+Company: [**Kakao Ventures**](https://www.kakao.vc/), the most active seed stage VC in South Korea, with over 190 portfolios, managing 3500+ assets, and AUM of $300M (330B KRW) \
 Location: **Seoul, South Korea**
 
 ### Project Description
