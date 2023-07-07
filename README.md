@@ -2,9 +2,8 @@
 Proposing an Unsupervised Genetic AI Algorithm to reduce Facebook polarization and increase user acceptance of contradictory beliefs
 
 
-Team Members: [Haider](https://www.linkedin.com/in/haider-gillani-b87b90210/),    [Emil](https://www.linkedin.com/in/emil-rustamli/),    [Amos](https://www.linkedin.com/in/amosdecker/) \
-Supervisor:  [Jimmy Chien](https://www.linkedin.com/company/taiwan-digital-diplomacy-association/mycompany/) (Taiwan Digital Diplomacy Association)
-Team Members: Mike Cho (Kakao Ventures, Supervisor), Haider, Lydia, Nour  
+Team Members: [Haider](https://www.linkedin.com/in/haider-gillani-b87b90210/),    [Lydia](https://www.linkedin.com/in/lydia-etherington-41078a209/),    [Nour](https://www.linkedin.com/in/nour-elaifia-82886a163/) \
+Supervisor:  [Mike Cho](https://www.linkedin.com/in/hyunik-cho/) - Senior Associate at [Kakao Ventures](https://www.kakao.vc/), the most active seed stage VC in South Korea, with over 190 portfolios, managing 3500+ assets, and AUM of $300M (330B KRW)
 
 Role: Algorithm Analyst  
 Company: Kakao Ventures 
