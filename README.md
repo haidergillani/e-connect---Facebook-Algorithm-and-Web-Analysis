@@ -2,7 +2,7 @@
 Proposing an Unsupervised Genetic AI Algorithm to reduce Facebook polarization and increase user acceptance of contradictory beliefs
 
 
-Team Members: [Haider](https://www.linkedin.com/in/haider-gillani-b87b90210/),    [Lydia](https://www.linkedin.com/in/lydia-etherington-41078a209/),    [Nour](https://www.linkedin.com/in/nour-elaifia-82886a163/) \
+Team Members: [Haider](https://www.linkedin.com/in/haider-gillani-b87b90210/),      [Lydia](https://www.linkedin.com/in/lydia-etherington-41078a209/),      [Nour](https://www.linkedin.com/in/nour-elaifia-82886a163/) \
 Supervisor:  [Mike Cho](https://www.linkedin.com/in/hyunik-cho/) - Senior Associate at Kakao Ventures
 
 Role: **Algorithm Analyst**  
