@@ -1,5 +1,5 @@
 # e-connect---Facebook-Algorithm-and-Web-Analysis
-Proposing an Unsupervised Genetic AI Algorithm to reduce Facebook polarization and increase user acceptance of contradictory beliefs
+Proposing an Unsupervised Genetic AI Algorithm to reduce Facebook polarization and increase user acceptance of contradictory beliefs by identifying 10+ parameters (related topics, contents & user location) through analysis of Facebook’s post suggestion algorithm and web layout.
 
 
 Team Members: [Haider Gillani](https://www.linkedin.com/in/haider-gillani-b87b90210/),  [Lydia Etherington](https://www.linkedin.com/in/lydia-etherington-41078a209/),  [Nour Elaifia](https://www.linkedin.com/in/nour-elaifia-82886a163/) \
